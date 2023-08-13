@@ -19,7 +19,7 @@ files passed as arguments to it:
 
   * `FILTER_PER_PAGE`:
     Integer, limits the maximum number of files to be listed. If negative or
-    `0`, no posts are included. Have no effect if `FILTER_PAGE` is not
+    `0`, no posts are included. Has no effect if `FILTER_PAGE` is not
     defined.
 
   * `FILTER_TAG`:
